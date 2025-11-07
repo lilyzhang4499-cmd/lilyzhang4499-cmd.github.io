@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.png"
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/lily.zhang.167284
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lily-zhang-29b78b257/
+    - icon: envelope
+      text: Email
+      href: "shitao.zhang@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Lily (Shi-tao) Zhang who is trying to be a good bio-statistician. 
+
+My interest in biology began after reading a biography of Jane Goodall, who sadly passed away this year. Her lifelong devotion to the study of chimpanzee behavior deeply inspired me and encouraged me to pursue a path in biology. 
+
+After earning my PhD in Biochemistry and Molecular Biology, I came to the United States to continue my research and further develop myself. Over time, I realized that the wet lab was not where I wanted to make my contribution to improving the world. During my PhD project, I developed a strong interest in coding and statistics, which ultimately led me to pursue another degree in bio-statistics. 
+
+On this website, you will find my published works, and also find news and updates on my current research projects. I invite you to explore my website and learn more about me. Please feel free to [contact me](mailto:shitao.zhang@case.edu) if you have any questions or would like to discuss potential projects.

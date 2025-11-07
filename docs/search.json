@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Paper Link\nHuman dipeptidyl-peptidase III (hDPP III) is capable of specifically cleaving dipeptides from the N-terminal of small peptides with biological activity such as angiotensin II (Ang II, DRVYIHPF), and participates in blood pressure regulation, pain modulation, and the development of cancers in human biological activities. In this study, 500 ns molecular dynamics simulations were performed on free-hDPP III (PDB code: 5E33), hDPP III-Ang II (PDB code: 5E2Q), and hDPP III-IVYPW (PDB code: 5E3C) to explore how these two peptides affect the catalytic efficiency of enzymes in terms of the binding mode and the conformational changes. Our results indicate that in the case of the hDPP III-Ang II complex, subsite S1 became small and hydrophobic, which might be propitious for the nucleophile to attack the substrate. The structures of the most stable conformations of the three systems revealed that Arg421-Lys423 could form an α-helix with the presence of Ang II, but only part of the α-helix was produced in hDPP III-IVYPW. As the hinge structure in hDPP III, the conformational changes that took place in the Arg421-Lys423 residue could lead to the changes in the shape and space of the catalytic subsites, which might allow water to function as a nucleophile to attack the substrate. Our results may provide new clues to enable the design of new inhibitors for hDPP III in the future."
+  },
+  {
+    "objectID": "projects/index.html#molecular-danymic-simulation-of-dpp-iv",
+    "href": "projects/index.html#molecular-danymic-simulation-of-dpp-iv",
+    "title": "Projects",
+    "section": "",
+    "text": "Paper Link\nHuman dipeptidyl-peptidase III (hDPP III) is capable of specifically cleaving dipeptides from the N-terminal of small peptides with biological activity such as angiotensin II (Ang II, DRVYIHPF), and participates in blood pressure regulation, pain modulation, and the development of cancers in human biological activities. In this study, 500 ns molecular dynamics simulations were performed on free-hDPP III (PDB code: 5E33), hDPP III-Ang II (PDB code: 5E2Q), and hDPP III-IVYPW (PDB code: 5E3C) to explore how these two peptides affect the catalytic efficiency of enzymes in terms of the binding mode and the conformational changes. Our results indicate that in the case of the hDPP III-Ang II complex, subsite S1 became small and hydrophobic, which might be propitious for the nucleophile to attack the substrate. The structures of the most stable conformations of the three systems revealed that Arg421-Lys423 could form an α-helix with the presence of Ang II, but only part of the α-helix was produced in hDPP III-IVYPW. As the hinge structure in hDPP III, the conformational changes that took place in the Arg421-Lys423 residue could lead to the changes in the shape and space of the catalytic subsites, which might allow water to function as a nucleophile to attack the substrate. Our results may provide new clues to enable the design of new inhibitors for hDPP III in the future."
+  },
+  {
+    "objectID": "projects/index.html#molecular-danymic-simulation-of-n-terminal-human-maltase-glucoamylase",
+    "href": "projects/index.html#molecular-danymic-simulation-of-n-terminal-human-maltase-glucoamylase",
+    "title": "Projects",
+    "section": "Molecular Danymic simulation of N-Terminal Human Maltase-Glucoamylase",
+    "text": "Molecular Danymic simulation of N-Terminal Human Maltase-Glucoamylase\n\nPaper Link\nThere are multiple drugs for the treatment of type 2 diabetes, including traditional sulfonylureas biguanides, glinides, thiazolidinediones, α-glucosidase inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, dipeptidyl peptidase IV (DPP-4) inhibitors, and sodium-glucose cotransporter 2 (SGLT2) inhibitors. α-Glucosidase inhibitors have been used to control postprandial glucose levels caused by type 2 diabetes since 1990. α-Glucosidases are rather crucial in the human metabolic system and are principally found in families 13 and 31. Maltase-glucoamylase (MGAM) belongs to glycoside hydrolase family 31. The main function of MGAM is to digest terminal starch products left after the enzymatic action of α-amylase; hence, MGAM becomes an efficient drug target for insulin resistance. In order to explore the conformational changes in the active pocket and unbinding pathway for NtMGAM, molecular dynamics (MD) simulations and adaptive steered molecular dynamics (ASMD) simulations were performed for two NtMGAM-inhibitor [de-O-sulfonated kotalanol (DSK) and acarbose] complexes. MD simulations indicated that DSK bound to NtMGAM may influence two domains (inserted loop 1 and inserted loop 2) by interfering with the spiralization of residue 497–499. The flexibility of inserted loop 1 and inserted loop 2 can influence the volume of the active pocket of NtMGAM, which can affect the binding progress for DSK to NtMGAM. ASMD simulations showed that compared to acarbose, DSK escaped from NtMGAM easily with lower energy. Asp542 is an important residue on the bottleneck of the active pocket of NtMGAM and could generate hydrogen bonds with DSK continuously. Our theoretical results may provide some useful clues for designing new α-glucosidase inhibitors to treat type 2 diabetes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Facebook\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Lily (Shi-tao) Zhang who is trying to be a good bio-statistician.\nMy interest in biology began after reading a biography of Jane Goodall, who sadly passed away this year. Her lifelong devotion to the study of chimpanzee behavior deeply inspired me and encouraged me to pursue a path in biology.\nAfter earning my PhD in Biochemistry and Molecular Biology, I came to the United States to continue my research and further develop myself. Over time, I realized that the wet lab was not where I wanted to make my contribution to improving the world. During my PhD project, I developed a strong interest in coding and statistics, which ultimately led me to pursue another degree in bio-statistics.\nOn this website, you will find my published works, and also find news and updates on my current research projects. I invite you to explore my website and learn more about me. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+  }
+]
