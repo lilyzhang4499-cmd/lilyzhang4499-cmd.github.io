@@ -1,0 +1,113 @@
+---
+title: Projects
+---
+
+I have worked with diverse real-world data sets in public health, clinical trials, and aging research. Across these projects, I applied **R** and **SAS** for data cleaning, statistical modeling, causal inference, and clear communication of results.
+
+---
+
+## Mental Health and Disability in Florida  
+**Data:** 2024 BRFSS (Behavioral Risk Factor Surveillance System)  
+**Tools:** R
+
+**Focus**  
+Examined mental health burden (number of poor mental health days) and disability status among adults in Florida using survey data.
+
+**Key takeaway**  
+Lower socioeconomic status, especially lower income, was strongly associated with worse mental health outcomes and higher disability risk.
+
+**Methods used**  
+Linear and logistic regression, variable recoding, survey-style data processing  
+
+---
+
+## Treatment Effect Estimation in Heart Failure  
+**Data:** Digitalis Investigation Group trial  
+**Tools:** R  
+
+**Focus**  
+Estimated treatment effects on worsening heart failure using causal inference approaches.
+
+**Key takeaway**  
+Results were consistent across unadjusted and adjusted analyses, reflecting the randomized design, while highlighting the importance of balance diagnostics in propensity score methods.
+
+**Methods used**  
+Propensity score matching, weighting (ATT), balance assessment (SMD), Causual inference  
+
+---
+
+## Diabetes Treatment and Glycemic Control  
+**Data:** NHANES 2017–2020  
+**Tools:** R  
+
+**Focus**  
+Compared treatment patterns and glycemic control (HbA1c) among adults with type 2 diabetes using national survey data.
+
+**Key takeaway**  
+Observed treatment differences are influenced by patient characteristics and access to care, emphasizing the need for careful interpretation in observational studies.
+
+**Methods used**  
+Data integration across files, exposure definition, regression modeling  
+
+---
+
+## Health and Chronic Disease in Older Adults  
+
+**Data:** RAND HRS (Health and Retirement Study), 2022  
+**Tools:** R  
+
+**Focus**  
+Analyzed self-rated health and chronic disease burden in older adults.
+
+**Key takeaway**  
+Health status in aging populations is multi-dimensional and requires careful variable construction and modeling strategies.
+
+**Methods used**  
+Ordinal and count outcome modeling, variable derivation, missing data handling
+
+---
+
+## Healthcare Utilization and Injury Patterns After a Hurricane  
+
+**Data:** HCUP State Emergency Department Database (SEDD), Florida 2018  
+**Tools:** SAS, R  
+
+**Focus**  
+Analyzed emergency department (ED) visits following Hurricane Michael to characterize injury patterns and identify factors associated with patient disposition.
+
+**Key takeaway**  
+Abrasions/contusions were the most common injuries, while older age and more severe conditions (e.g., fractures, mental health diagnoses) significantly increased the likelihood of hospital transfer. Insurance type also reflected differences in healthcare utilization, with Medicare patients more likely to require higher levels of care.
+
+**Methods used**  
+Large-scale administrative data cleaning, ICD-10-based outcome definition, stratified analysis, multinomial logistic regression    
+
+---
+
+## County-Level Public Health Modeling  
+**Data:** County Health Rankings  
+**Tools:** R  
+
+**Focus**  
+Modeled associations between public health factors and unemployment at the county level.
+
+**Key takeaway**  
+Community-level health indicators can be linked to broader socioeconomic outcomes, though interpretation requires careful model checking.
+
+**Methods used**  
+Count models, regression diagnostics, data visualization  
+
+---
+
+## Technical Skills Highlight
+
+- **Programming:** R, SAS, Python  
+- **Modeling:** Linear, logistic, count models, survival analysis  
+- **Causal Inference:** Propensity score matching and weighting  
+- **Data Types:** Survey data, clinical trial data, longitudinal and public data sets  
+- **Reproducibility:** Quarto reports and data workflows  
+
+---
+
+This portfolio reflects my interest in applying statistical methods to real-world health data and translating results into meaningful insights.
+
+

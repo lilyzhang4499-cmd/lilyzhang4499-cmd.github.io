@@ -25,7 +25,7 @@
     "href": "projects/index.html#mental-health-and-disability-in-florida",
     "title": "Projects",
     "section": "Mental Health and Disability in Florida",
-    "text": "Mental Health and Disability in Florida\nData: 2024 BRFSS (Behavioral Risk Factor Surveillance System)\nTools: R, Quarto\nFocus\nExamined mental health burden (number of poor mental health days) and disability status among adults in Florida using survey data.\nKey takeaway\nLower socioeconomic status, especially lower income, was strongly associated with worse mental health outcomes and higher disability risk.\nMethods used\nLinear and logistic regression, variable recoding, survey-style data processing"
+    "text": "Mental Health and Disability in Florida\nData: 2024 BRFSS (Behavioral Risk Factor Surveillance System)\nTools: R\nFocus\nExamined mental health burden (number of poor mental health days) and disability status among adults in Florida using survey data.\nKey takeaway\nLower socioeconomic status, especially lower income, was strongly associated with worse mental health outcomes and higher disability risk.\nMethods used\nLinear and logistic regression, variable recoding, survey-style data processing"
   },
   {
     "objectID": "projects/index.html#treatment-effect-estimation-in-heart-failure",
@@ -53,7 +53,7 @@
     "href": "projects/index.html#healthcare-utilization-and-injury-patterns-after-a-hurricane",
     "title": "Projects",
     "section": "Healthcare Utilization and Injury Patterns After a Hurricane",
-    "text": "Healthcare Utilization and Injury Patterns After a Hurricane\nData: HCUP State Emergency Department Database (SEDD), Florida 2018 Tools: SAS, R\nFocus\nAnalyzed emergency department (ED) visits following Hurricane Michael to characterize injury patterns and identify factors associated with patient disposition.\nKey takeaway\nAbrasions/contusions were the most common injuries, while older age and more severe conditions (e.g., fractures, mental health diagnoses) significantly increased the likelihood of hospital transfer. Insurance type also reflected differences in healthcare utilization, with Medicare patients more likely to require higher levels of care.\nMethods used\nLarge-scale administrative data cleaning, ICD-10-based outcome definition, stratified analysis, multinomial logistic regression"
+    "text": "Healthcare Utilization and Injury Patterns After a Hurricane\nData: HCUP State Emergency Department Database (SEDD), Florida 2018\nTools: SAS, R\nFocus\nAnalyzed emergency department (ED) visits following Hurricane Michael to characterize injury patterns and identify factors associated with patient disposition.\nKey takeaway\nAbrasions/contusions were the most common injuries, while older age and more severe conditions (e.g., fractures, mental health diagnoses) significantly increased the likelihood of hospital transfer. Insurance type also reflected differences in healthcare utilization, with Medicare patients more likely to require higher levels of care.\nMethods used\nLarge-scale administrative data cleaning, ICD-10-based outcome definition, stratified analysis, multinomial logistic regression"
   },
   {
     "objectID": "projects/index.html#county-level-public-health-modeling",
@@ -67,7 +67,7 @@
     "href": "projects/index.html#technical-skills-highlight",
     "title": "Projects",
     "section": "Technical Skills Highlight",
-    "text": "Technical Skills Highlight\n\nProgramming: R, SAS\n\nModeling: Linear, logistic, count models, survival analysis\n\nCausal Inference: Propensity score matching and weighting\n\nData Types: Survey data, clinical trial data, longitudinal and public data sets\n\nReproducibility: Quarto reports and data workflows\n\n\nThis portfolio reflects my interest in applying statistical methods to real-world health data and translating results into meaningful insights."
+    "text": "Technical Skills Highlight\n\nProgramming: R, SAS, Python\n\nModeling: Linear, logistic, count models, survival analysis\n\nCausal Inference: Propensity score matching and weighting\n\nData Types: Survey data, clinical trial data, longitudinal and public data sets\n\nReproducibility: Quarto reports and data workflows\n\n\nThis portfolio reflects my interest in applying statistical methods to real-world health data and translating results into meaningful insights."
   },
   {
     "objectID": "papers/index.html",
