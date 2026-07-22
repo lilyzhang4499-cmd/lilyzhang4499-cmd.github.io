@@ -1,0 +1,173 @@
+---
+title: Projects
+---
+
+```{=html}
+<style>
+.project-page-nav {
+  margin: 0 0 1.5rem 0;
+  padding: 0.85rem 0 0.85rem 1rem;
+  border-left: 3px solid var(--bs-primary);
+}
+
+.project-page-nav-title {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.project-page-nav a {
+  display: block;
+  line-height: 1.25;
+  margin: 0.45rem 0;
+  text-decoration: none;
+}
+
+.project-page-nav a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 1200px) {
+  .project-page-nav {
+    position: fixed;
+    top: 7rem;
+    left: 1.25rem;
+    width: 230px;
+    max-height: calc(100vh - 8rem);
+    overflow-y: auto;
+    background: var(--bs-body-bg);
+    z-index: 10;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+  .project-page-nav {
+    width: 190px;
+    font-size: 0.92rem;
+  }
+}
+</style>
+
+<nav class="project-page-nav" aria-label="Project navigation">
+  <div class="project-page-nav-title">Projects</div>
+  <a href="#mental-health-and-disability-in-florida">Mental Health and Disability in Florida</a>
+  <a href="#treatment-effect-estimation-in-heart-failure">Treatment Effect Estimation in Heart Failure</a>
+  <a href="#diabetes-treatment-and-glycemic-control">Diabetes Treatment and Glycemic Control</a>
+  <a href="#health-and-chronic-disease-among-older-adults">Health and Chronic Disease among Older Adults</a>
+  <a href="#county-level-public-health-modeling">County-Level Public Health Modeling</a>
+  <a href="#healthcare-utilization-and-injury-patterns-after-a-hurricane">Healthcare Utilization and Injury Patterns After a Hurricane</a>
+</nav>
+```
+
+I have worked with diverse real-world data sets in public health, clinical trials, and aging research. Across these projects, I applied **R** and **SAS** for data cleaning, statistical modeling, causal inference, and clear communication of results.
+
+---
+
+## Mental Health and Disability in Florida  
+**Data:** 2024 BRFSS (Behavioral Risk Factor Surveillance System)  
+**Tools:** R  
+**Report:** [View HTML report](Mental%20Health%20and%20Disability%20in%20Florida.html)
+
+**Focus**  
+Examined mental health burden (number of poor mental health days) and disability status among adults in Florida using survey data.
+
+**Key takeaway**  
+Lower socioeconomic status, especially lower income, was strongly associated with worse mental health outcomes and higher disability risk.
+
+**Methods used**  
+Data cleaning, linear logistic regression, model validation, model selection, interpretation of results. 
+
+---
+
+## Treatment Effect Estimation in Heart Failure  
+**Data:** Digitalis Investigation Group trial  
+**Tools:** R  
+**Report:** [View HTML report](DIGresearch.html)
+
+**Focus**  
+Estimated treatment effects on worsening heart failure using causal inference approaches.
+
+**Key takeaway**  
+Results were consistent across unadjusted and adjusted analyses, reflecting the randomized design, while highlighting the importance of balance diagnostics in propensity score methods.
+
+**Methods used**  
+Propensity score matching, weighting (ATT), balance assessment (SMD), Causal inference.  
+
+---
+
+## Diabetes Treatment and Glycemic Control  
+**Data:** NHANES 2017-2020  
+**Tools:** R  
+**Report:** [View HTML report](Effectiveness%20of%20Oral%20Monotherapy%20Versus%20Dual%20Therapy%20on%20HbA1c%20Levels.html) | [View PDF](Mono%20or%20Dual%20therapy%20effects.pdf)
+
+**Focus**  
+Compared treatment patterns and glycemic control (HbA1c) among adults with type 2 diabetes using national survey data.
+
+**Key takeaway**  
+Observed treatment differences are influenced by patient characteristics and access to care, emphasizing the need for careful interpretation in observational studies. 
+
+**Methods used**  
+Data integration across files, propensity score matching.   
+
+---
+
+## Health and Chronic Disease among Older Adults  
+
+**Data:** RAND HRS (Health and Retirement Study), 2022  
+**Tools:** R  
+**Report:** [View HTML report](Factors%20Shaping%20Health%20and%20Chronic%20Disease%20in%20Older%20Adults.html)
+
+**Focus**  
+Factors associated with self-rated health status and chronic disease burden among older adults.
+
+**Key takeaway**  
+Health status in aging populations is multi-dimensional and requires careful variable construction and modeling strategies.
+
+**Methods used**  
+Data cleaning, variable derivation, missing data handling, categorical data analysis. 
+
+---
+
+## County-Level Public Health Modeling  
+
+**Data:** 2021-2023 NHANES Data   
+**Tools:** R  
+**Report:** [View HTML report](Exploration%20of%20Health%20Indicators.html)
+
+**Focus**  
+Modeled associations between TG level and demographic and behavior factors. 
+
+**Key takeaway**  
+TG levels can be influenced by a variety of factors; therefore, the model selected in this study explains only a limited proportion of the variability in the data. 
+
+**Methods used**  
+Data cleaning, data visualization, model selection, model validation.   
+
+---
+
+## Healthcare Utilization and Injury Patterns After a Hurricane  
+
+**Data:** HCUP State Emergency Department Database (SEDD), Florida 2018  
+**Tools:** SAS, R  
+
+**Focus**  
+Analyzed emergency department (ED) visits following Hurricane Michael to characterize injury patterns and identify factors associated with patient disposition.
+
+**Key takeaway**  
+Abrasions/contusions were the most common injuries, while older age and more severe conditions (e.g., fractures, mental health diagnoses) significantly increased the likelihood of hospital transfer. Insurance type also reflected differences in healthcare utilization, with Medicare patients more likely to require higher levels of care.
+
+**Methods used**  
+Large-scale administrative data cleaning, ICD-10-based outcome definition, stratified analysis, multinomial logistic regression    
+
+---
+
+## Technical Skills Highlight
+
+- **Programming:** R, SAS, Python  
+- **Modeling:** Linear regression modeling, logistic regression modeling, count models, multinominal outcomes, survival analysis  
+- **Causal Inference:** Propensity score matching and weighting  
+- **Data Types:** Survey data, clinical trial data, longitudinal and public data sets  
+- **Reproducibility:** Quarto reports and data workflows  
+
+---
+
+This portfolio reflects my interest in applying statistical methods to real-world health data and translating results into meaningful insights.

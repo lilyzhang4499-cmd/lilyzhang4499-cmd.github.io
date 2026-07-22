@@ -1,0 +1,35 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.png"
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/lily.zhang.167284
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lily-zhang-29b78b257/
+    - icon: envelope
+      text: Email
+      href: "mailto: shitao.zhang@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Lily (Shi-tao) Zhang who is trying to be a good bio-statistician. 
+
+My interest in biology began after reading a biography of Jane Goodall. Her lifelong commitment to scientific discovery inspired me to pursue a career in biomedical research. That passion led me to earn a Ph.D. in Biochemistry and Molecular Biology and further continue my research training in the United States.
+
+Throughout my doctoral and postdoctoral research, I became increasingly involved in analyzing high-dimensional biological data. Rather than viewing data analysis as simply a supporting step, I found it to be the aspect of research I enjoyed most. As my research progressed, I realized that rigorous statistical methodology is fundamental to producing reliable and reproducible scientific conclusions. This realization motivated my transition into biostatistics.
+
+To build the necessary expertise, I pursued formal graduate training in bio-statistics. I have developed proficiency in R, SAS, and a wide range of statistical methods, including generalized linear models, survival analysis, and longitudinal and cross-sectional data analysis. I have independently designed data analysis pipelines, produced publication-quality visualizations, and collaborated closely with multidisciplinary researchers to answer clinically relevant questions. I enjoy solving complex analytical problems and transforming data into evidence that informs scientific discovery and clinical decision-making.
+
+On this website, you will find my published works, and also find news and updates on my current research projects. I invite you to explore my website and learn more about me. Please feel free to [contact me](mailto:zlily0049@gmail.com) if you have any questions or would like to discuss potential projects. 
+
+
+
+
