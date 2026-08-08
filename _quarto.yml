@@ -13,7 +13,7 @@ website:
     left:
       - text: "Publications"
         href: papers/index.qmd
-      - text: "Projects"
+      - text: "Portfolio"
         href: projects/index.qmd
       - text: "Blog"
         href: blog/index.qmd
@@ -52,6 +52,12 @@ project:
   resources:
     - "projects/*.html"
     - "projects/*.pdf"
+    - "projects/GutMicrobiome/GutMicrobiome.html"
+    - "projects/GutMicrobiome/GutMicrobiomeReport_LilyZhang.pdf"
+    - "projects/GutMicrobiome/ancombc2_results.rds"
+    - "projects/GutMicrobiome/phylogenetic_tree.nwk"
+    - "projects/GutMicrobiome/taxa_19_genus.rds"
+    - "projects/GutMicrobiome/ASV_abundance_table.csv"
 
   preview: 
     port: 22222

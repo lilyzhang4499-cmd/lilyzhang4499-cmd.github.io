@@ -49,6 +49,8 @@ title: Projects
 
 <nav class="project-page-nav" aria-label="Project navigation">
   <div class="project-page-nav-title">Projects</div>
+  <a href="#gut-microbiome-differences-between-two-dietary-groups">Gut Microbiome Differences Between Two Dietary Groups</a>
+  <a href="#inflammatory-biomarkers-promote-frailty-risk-in-people-aging-with-hiv-infection">Inflammatory Biomarkers Promote Frailty Risk in People Aging with HIV Infection</a>
   <a href="#mental-health-and-disability-in-florida">Mental Health and Disability in Florida</a>
   <a href="#treatment-effect-estimation-in-heart-failure">Treatment Effect Estimation in Heart Failure</a>
   <a href="#diabetes-treatment-and-glycemic-control">Diabetes Treatment and Glycemic Control</a>
@@ -59,6 +61,38 @@ title: Projects
 ```
 
 I have worked with diverse real-world data sets in public health, clinical trials, and aging research. Across these projects, I applied **R** and **SAS** for data cleaning, statistical modeling, causal inference, and clear communication of results.
+
+---
+
+## Gut Microbiome Differences Between Two Dietary Groups
+This project is a simplified demonstration of a typical gut microbiome analysis workflow. The original study can be found [here](https://www.pnas.org/doi/10.1073/pnas.1005963107).  
+**Data:** Public 16S rRNA sequencing data comparing children from Europe and rural Burkina Faso  
+**Tools:** R  
+**Report:** [View HTML report](GutMicrobiome/GutMicrobiome.html) | [View PDF](GutMicrobiome/GutMicrobiomeReport_LilyZhang.pdf)  
+**Related files:** <a href="GutMicrobiome/ancombc2_results.rds" download>ancombc2_results.rds</a> | <a href="GutMicrobiome/phylogenetic_tree.nwk" download>phylogenetic_tree.nwk</a> | <a href="GutMicrobiome/taxa_19_genus.rds" download>taxa_19_genus.rds</a> | <a href="GutMicrobiome/ASV_abundance_table.csv" download>ASV_abundance_table.csv</a>
+
+**Focus**  
+Analyzed gut microbiome composition and differential abundance patterns between two dietary groups to explore how long-term dietary differences are reflected in microbial community structure.
+
+**Key takeaway**  
+Dietary context was associated with measurable microbiome differences, highlighting the value of 16S rRNA workflows for comparing community composition across populations.
+
+**Methods used**  
+16S rRNA sequence processing, taxonomic assignment, phylogenetic tree construction, diversity analysis, differential abundance analysis.
+
+---
+
+## Inflammatory Biomarkers Promote Frailty Risk in People Aging with HIV Infection
+**Tools:** R  
+
+**Focus**  
+Persistent immune activation contributes to frailty in people living with HIV (PWH), yet the role of extracellular vesicle (EV)-associated inflammatory mediators remains poorly understood. We investigated whether plasma and EV-associated inflammatory analytes are associated with frailty status and predict subsequent frailty development.  
+
+**Key takeaway** 
+Key analytes were identified to be associated with Frailty status and development. 
+
+**Methods used** 
+Wilcoxon rank-sum tests, multivariable ordinary least-squares regression, Kaplan-Meier analyses, Cox proportional hazards models. 
 
 ---
 
@@ -148,6 +182,7 @@ Data cleaning, data visualization, model selection, model validation.
 
 **Data:** HCUP State Emergency Department Database (SEDD), Florida 2018  
 **Tools:** SAS, R  
+**Report:** [View PDF](ED%20utilization%20after%20Hurricane.pdf)
 
 **Focus**  
 Analyzed emergency department (ED) visits following Hurricane Michael to characterize injury patterns and identify factors associated with patient disposition.
