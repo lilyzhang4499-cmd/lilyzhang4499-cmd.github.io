@@ -68,7 +68,7 @@ I have worked with diverse real-world data sets in public health, clinical trial
 This project is a simplified demonstration of a typical gut microbiome analysis workflow. The original study can be found [here](https://www.pnas.org/doi/10.1073/pnas.1005963107).  
 **Data:** Public 16S rRNA sequencing data comparing children from Europe and rural Burkina Faso  
 **Tools:** R  
-**Report:** [View HTML report](GutMicrobiome/GutMicrobiome.html) | [View PDF](GutMicrobiome/GutMicrobiomeReport_LilyZhang.pdf)  
+**Report:** [View HTML report](GutMicrobiome/GutMicrobiome.html) | [View PDF](GutMicrobiome/GutMicrobiomeReport_LilyZhang.pdf)  | [View Presentation](GutMicrobiome/Pre.pdf)  
 **Related files:** <a href="GutMicrobiome/ancombc2_results.rds" download>ancombc2_results.rds</a> | <a href="GutMicrobiome/phylogenetic_tree.nwk" download>phylogenetic_tree.nwk</a> | <a href="GutMicrobiome/taxa_19_genus.rds" download>taxa_19_genus.rds</a> | <a href="GutMicrobiome/ASV_abundance_table.csv" download>ASV_abundance_table.csv</a>
 
 **Focus**  
