@@ -197,7 +197,7 @@ Large-scale administrative data cleaning, ICD-10-based outcome definition, strat
 
 ## Technical Skills Highlight
 
-- **Programming:** R, SAS, Python  
+- **Programming:** R, SAS, Python, SQL   
 - **Modeling:** Linear regression modeling, logistic regression modeling, count models, multinominal outcomes, survival analysis  
 - **Causal Inference:** Propensity score matching and weighting  
 - **Data Types:** Survey data, clinical trial data, longitudinal and public data sets  
